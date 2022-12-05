@@ -1,0 +1,134 @@
+[
+  {
+    "sf": "DOE",
+    "lfs": [
+      {
+        "lf": "Department of Energy",
+        "freq": 110,
+        "since": 1981,
+        "vars": [
+          {
+            "lf": "Department of Energy",
+            "freq": 105,
+            "since": 1981
+          },
+          {
+            "lf": "Department of Education",
+            "freq": 4,
+            "since": 1996
+          },
+          {
+            "lf": "Departments of Energy",
+            "freq": 1,
+            "since": 2005
+          }
+        ]
+      },
+      {
+        "lf": "design of experiments",
+        "freq": 52,
+        "since": 1994,
+        "vars": [
+          {
+            "lf": "design of experiments",
+            "freq": 28,
+            "since": 1998
+          },
+          {
+            "lf": "design of experiment",
+            "freq": 9,
+            "since": 2000
+          },
+          {
+            "lf": "Design of Experiments",
+            "freq": 7,
+            "since": 2003
+          },
+          {
+            "lf": "Design of experiments",
+            "freq": 3,
+            "since": 1994
+          },
+          {
+            "lf": "Design of experiment",
+            "freq": 2,
+            "since": 2003
+          },
+          {
+            "lf": "design-of-experiments",
+            "freq": 2,
+            "since": 2007
+          },
+          {
+            "lf": "Design of Experiment",
+            "freq": 1,
+            "since": 2008
+          }
+        ]
+      },
+      {
+        "lf": "diffractive optical element",
+        "freq": 17,
+        "since": 2003,
+        "vars": [
+          {
+            "lf": "diffractive optical element",
+            "freq": 16,
+            "since": 2003
+          },
+          {
+            "lf": "Diffractive Optical Elements",
+            "freq": 1,
+            "since": 2008
+          }
+        ]
+      },
+      {
+        "lf": "dyspnea on exertion",
+        "freq": 5,
+        "since": 1991,
+        "vars": [
+          {
+            "lf": "dyspnea on exertion",
+            "freq": 4,
+            "since": 1991
+          },
+          {
+            "lf": "Dyspnea on exertion",
+            "freq": 1,
+            "since": 1994
+          }
+        ]
+      },
+      {
+        "lf": "differential outcomes effect",
+        "freq": 3,
+        "since": 2001,
+        "vars": [
+          {
+            "lf": "differential outcomes effect",
+            "freq": 2,
+            "since": 2001
+          },
+          {
+            "lf": "Differential Outcomes Effect",
+            "freq": 1,
+            "since": 2001
+          }
+        ]
+      },
+      {
+        "lf": "The Department of the Environment",
+        "freq": 3,
+        "since": 1987,
+        "vars": [
+          {
+            "lf": "The Department of the Environment",
+            "freq": 3,
+            "since": 1987
+          }
+        ]
+      }
+    ]
+  }
+]
